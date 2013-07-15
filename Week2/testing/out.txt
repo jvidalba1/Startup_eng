@@ -1,0 +1,2 @@
+curl: (6) Could not resolve host: google-com; nodename nor servname provided, or not known
+curl: (6) Could not resolve host: fakeurl; nodename nor servname provided, or not known
