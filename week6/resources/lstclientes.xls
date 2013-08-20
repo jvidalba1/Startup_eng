@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:o="urn:schemas-microsoft-com:office:office"
+          xmlns:x="urn:schemas-microsoft-com:office:excel"
+          xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:html="http://www.w3.org/TR/REC-html40">
+  <Worksheet ss:Name="lstclientes">
+    <Table>
+      <Row>
+        <Cell><Data ss:Type="String">Tipo identificacion</Data></Cell>
+        <Cell><Data ss:Type="String">Cliente</Data></Cell>
+        <Cell><Data ss:Type="String">Nombre</Data></Cell>
+        <Cell><Data ss:Type="String">Fecha de Nacimiento</Data></Cell>
+        <Cell><Data ss:Type="String">Edad</Data></Cell>
+        <Cell><Data ss:Type="String">Direccion</Data></Cell>
+        <Cell><Data ss:Type="String">Ciudad - Departamento</Data></Cell>
+        <Cell><Data ss:Type="String">Fecha ingreso</Data></Cell>
+        <Cell><Data ss:Type="String">Telefono</Data></Cell>
+        <Cell><Data ss:Type="String">Email</Data></Cell>
+        <Cell><Data ss:Type="String">Profesion</Data></Cell>
+        <Cell><Data ss:Type="String">Cargo</Data></Cell>
+      </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">43434999</Data></Cell>
+            <Cell><Data ss:Type="String">olga lucia roldan cano</Data></Cell>
+            <Cell><Data ss:Type="String">1964-11-14</Data></Cell>
+            <Cell><Data ss:Type="Number">48</Data></Cell>
+            <Cell><Data ss:Type="String">cr 59  nro 75AA sur 75</Data></Cell>
+            <Cell><Data ss:Type="String">Medell?N - Antioquia</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="Number">3091635</Data></Cell>
+            <Cell><Data ss:Type="String">olroldanc@une.net.co</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">15895431</Data></Cell>
+            <Cell><Data ss:Type="String">Carlos Eugenio Ocampo Ramirez</Data></Cell>
+            <Cell><Data ss:Type="String">1950-01-06</Data></Cell>
+            <Cell><Data ss:Type="Number">63</Data></Cell>
+            <Cell><Data ss:Type="String">Calle 15 No. 15-33</Data></Cell>
+            <Cell><Data ss:Type="String">Santa Rosa De Cabal - Risaralda</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="Number">3657976</Data></Cell>
+            <Cell><Data ss:Type="String">carloseugenio@hotmail.com</Data></Cell>
+            <Cell><Data ss:Type="String">Abogados</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">42896837</Data></Cell>
+            <Cell><Data ss:Type="String">Angela Maria Bernal Jaramillo</Data></Cell>
+            <Cell><Data ss:Type="String">2013-06-27</Data></Cell>
+            <Cell><Data ss:Type="Number">0</Data></Cell>
+            <Cell><Data ss:Type="String">Cra 27A No. 36sur - 150</Data></Cell>
+            <Cell><Data ss:Type="String">Envigado - Antioquia</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="Number">1234566</Data></Cell>
+            <Cell><Data ss:Type="String">angela@visionamos.com</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">22222222</Data></Cell>
+            <Cell><Data ss:Type="String">CARLOS MARIA ALFONSO PRIETO</Data></Cell>
+            <Cell><Data ss:Type="String">1997-01-01</Data></Cell>
+            <Cell><Data ss:Type="Number">16</Data></Cell>
+            <Cell><Data ss:Type="String">CRA 39  29 33</Data></Cell>
+            <Cell><Data ss:Type="String">Bogot? - Bogot? D.C</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="Number">5555555</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Nit</Data></Cell>
+            <Cell><Data ss:Type="Number">900000000</Data></Cell>
+            <Cell><Data ss:Type="String">FFDOS PRUEBA</Data></Cell>
+            <Cell><Data ss:Type="String">2005-06-01</Data></Cell>
+            <Cell><Data ss:Type="Number">8</Data></Cell>
+            <Cell><Data ss:Type="String">CL 39 29 33</Data></Cell>
+            <Cell><Data ss:Type="String">Bogot? - Bogot? D.C</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="Number">3440132</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">18613778</Data></Cell>
+            <Cell><Data ss:Type="String">Carlos Andres Ocampo Gomez</Data></Cell>
+            <Cell><Data ss:Type="String">1976-05-20</Data></Cell>
+            <Cell><Data ss:Type="Number">37</Data></Cell>
+            <Cell><Data ss:Type="String">Cra 58BB No. 29A-15</Data></Cell>
+            <Cell><Data ss:Type="String">Bello - Antioquia</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="Number">5967168</Data></Cell>
+            <Cell><Data ss:Type="String">enter28@hotmail.com</Data></Cell>
+            <Cell><Data ss:Type="String">Abogados</Data></Cell>
+            <Cell><Data ss:Type="String">Abogado Asesor</Data></Cell>
+          </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

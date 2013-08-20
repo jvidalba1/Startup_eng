@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:o="urn:schemas-microsoft-com:office:office"
+          xmlns:x="urn:schemas-microsoft-com:office:excel"
+          xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:html="http://www.w3.org/TR/REC-html40">
+  <Worksheet ss:Name="lstclientes">
+    <Table>
+      <Row>
+        <Cell><Data ss:Type="String">Tipo identificacion</Data></Cell>
+        <Cell><Data ss:Type="String">Cliente</Data></Cell>
+        <Cell><Data ss:Type="String">Nombre</Data></Cell>
+        <Cell><Data ss:Type="String">Fecha de Nacimiento</Data></Cell>
+        <Cell><Data ss:Type="String">Edad</Data></Cell>
+        <Cell><Data ss:Type="String">Direccion</Data></Cell>
+        <Cell><Data ss:Type="String">Ciudad - Departamento</Data></Cell>
+        <Cell><Data ss:Type="String">Fecha ingreso</Data></Cell>
+        <Cell><Data ss:Type="String">Telefono</Data></Cell>
+        <Cell><Data ss:Type="String">Email</Data></Cell>
+        <Cell><Data ss:Type="String">Profesion</Data></Cell>
+        <Cell><Data ss:Type="String">Cargo</Data></Cell>
+      </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">216561</Data></Cell>
+            <Cell><Data ss:Type="String">ROBERTO BELARMINO ARAQUE RAMIREZ</Data></Cell>
+            <Cell><Data ss:Type="String">1955-05-13</Data></Cell>
+            <Cell><Data ss:Type="Number">58</Data></Cell>
+            <Cell><Data ss:Type="String">CALLE 28A 1E70  CORDIALIDAD</Data></Cell>
+            <Cell><Data ss:Type="String">Los Patios - Norte De Santander</Data></Cell>
+            <Cell><Data ss:Type="String">2005-03-18</Data></Cell>
+            <Cell><Data ss:Type="Number">5808902</Data></Cell>
+            <Cell><Data ss:Type="String">robertoaraque@livecom</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">1106639</Data></Cell>
+            <Cell><Data ss:Type="String">EVANGELISTA M BELLO HERRERA</Data></Cell>
+            <Cell><Data ss:Type="String">1961-07-12</Data></Cell>
+            <Cell><Data ss:Type="Number">52</Data></Cell>
+            <Cell><Data ss:Type="String">CLL 5 N 944 SALIDA A GUENA</Data></Cell>
+            <Cell><Data ss:Type="String">Cachir? - Norte De Santander</Data></Cell>
+            <Cell><Data ss:Type="String">2011-06-30</Data></Cell>
+            <Cell><Data ss:Type="Number"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">1376178</Data></Cell>
+            <Cell><Data ss:Type="String">HELI  PEnA RUIZ</Data></Cell>
+            <Cell><Data ss:Type="String">1935-01-14</Data></Cell>
+            <Cell><Data ss:Type="Number">78</Data></Cell>
+            <Cell><Data ss:Type="String">MZ G1 LT8 I ETAPA ATALAYA</Data></Cell>
+            <Cell><Data ss:Type="String">C?Cuta - Norte De Santander</Data></Cell>
+            <Cell><Data ss:Type="String">2002-08-01</Data></Cell>
+            <Cell><Data ss:Type="Number">5788362</Data></Cell>
+            <Cell><Data ss:Type="String">helito29@hotmailcom</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">1757299</Data></Cell>
+            <Cell><Data ss:Type="String">JAIRO ELI PINTO DURAN</Data></Cell>
+            <Cell><Data ss:Type="String">1950-01-11</Data></Cell>
+            <Cell><Data ss:Type="Number">63</Data></Cell>
+            <Cell><Data ss:Type="String">BARRIO BUENOS AIRES RIO de ORO</Data></Cell>
+            <Cell><Data ss:Type="String">Oca?A - Norte De Santander</Data></Cell>
+            <Cell><Data ss:Type="String">2010-11-12</Data></Cell>
+            <Cell><Data ss:Type="Number">5619108</Data></Cell>
+            <Cell><Data ss:Type="String">jaipi1@hotmailcom</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">1918370</Data></Cell>
+            <Cell><Data ss:Type="String">LUIS ERNESTO TRIANA SANCHEZ</Data></Cell>
+            <Cell><Data ss:Type="String">1921-11-23</Data></Cell>
+            <Cell><Data ss:Type="Number">91</Data></Cell>
+            <Cell><Data ss:Type="String">AV 6 NO 6119 URB PRADOS DEL ESTE</Data></Cell>
+            <Cell><Data ss:Type="String">C?Cuta - Norte De Santander</Data></Cell>
+            <Cell><Data ss:Type="String">2008-01-30</Data></Cell>
+            <Cell><Data ss:Type="Number">5849633</Data></Cell>
+            <Cell><Data ss:Type="String">a@a.com</Data></Cell>
+            <Cell><Data ss:Type="String">Administrador  Cafeteriahelade</Data></Cell>
+            <Cell><Data ss:Type="String">Abogado Asistente</Data></Cell>
+          </Row>
+          <Row>
+            <Cell><Data ss:Type="String">Cedula de Ciudadania</Data></Cell>
+            <Cell><Data ss:Type="Number">71171321</Data></Cell>
+            <Cell><Data ss:Type="String">Nelson  Espinosa </Data></Cell>
+            <Cell><Data ss:Type="String">1962-08-14</Data></Cell>
+            <Cell><Data ss:Type="Number">51</Data></Cell>
+            <Cell><Data ss:Type="String">Crr 77 AA cll 44</Data></Cell>
+            <Cell><Data ss:Type="String">Medell?N - Antioquia</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="Number">1234567</Data></Cell>
+            <Cell><Data ss:Type="String"></Data></Cell>
+            <Cell><Data ss:Type="String">Ingeniero De Sistemas</Data></Cell>
+            <Cell><Data ss:Type="String">Abogado Asistente</Data></Cell>
+          </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
